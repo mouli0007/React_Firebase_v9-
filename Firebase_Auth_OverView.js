@@ -44,7 +44,7 @@ npm i -g firebase-tools
   };
   
   
-  ######## Logging out its a common function for all ##############
+  ######## Logging out its a common function for all authentication ##############
   
     // Logout Functionality
 
